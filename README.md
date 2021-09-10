@@ -27,7 +27,7 @@ You can check out hosted preview of app http://airbnb-clone-pi-umber.vercel.app/
 
 ## Running locally
 
-`$ git clone https://github.com/robin025/whatsapp-clone-react.git` <br/>
+`$ git clone https://github.com/haideratGitHub/airbnb-clone.git` <br/>
 `$ cd airbnb-clone` <br/>
 `$ npm install && npm run dev` <br/>
 
