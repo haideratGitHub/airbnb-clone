@@ -1,29 +1,36 @@
-# Next.js + Tailwind CSS Example
+# Airbnb clone
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+[![Language](https://img.shields.io/badge/Language-Javascript-blue.svg?style=flat)](https://www.javascript.com/)
+[![Framework](https://img.shields.io/badge/Framework-Next.js-brightgreen.svg?style=flat)](https://nextjs.org)
+![Release](https://img.shields.io/badge/release-v1.0-orange.svg?style=flat)
 
-It uses the new [`Just-in-Time Mode`](https://tailwindcss.com/docs/just-in-time-mode) for Tailwind CSS.
+## About
 
-## Preview
+This is Airbnb web clone build with Next.js and Tailwind CSS. The core functionalities of this build include:
 
-Preview the example live on [StackBlitz](http://stackblitz.com/):
+- It is completely responsive 
+- Pages are loaded with server side rendering
+- It has calendar picker 
+- Integrated Mapbox API to display Map with search results
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+## Tech Stack
 
-## Deploy your own
+- Next.js
+- Tailwind CSS
+- Mapbox API
+- Heroicons
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
+## Vercel Hosted Preview
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+You can check out hosted preview of app http://airbnb-clone-pi-umber.vercel.app/
 
-## How to use
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
+## Running locally
 
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
+`$ git clone https://github.com/robin025/whatsapp-clone-react.git` <br/>
+`$ cd airbnb-clone` <br/>
+`$ npm install && npm run dev` <br/>
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+## Disclaimer
+
+This build is purely for learning purpose. I do not own any logo/design or have any affiliation with Aribnb. This Airbnb clone is just to showcase my skillset in web app development in Next.js framwork.
